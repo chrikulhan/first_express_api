@@ -1,0 +1,5 @@
+# Project exclude paths
+/hello-vue/dist/
+/hello-vue/dist/js/
+/hello-vue/node_modules/
+/node_modules/
