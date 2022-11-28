@@ -4,7 +4,7 @@ let router = express.Router()
 //different functions that can respond to those requests.
 
 router.get('/', function (req, res, next){
-    res.json({ 'message': 'Hi Professor James, this is magic!'} )
+    res.json({ 'message': 'Hello! This is being changed for practice.'} )
 })
 
 //router.get means "configure a route that is a get request (a request that fetches data)".
